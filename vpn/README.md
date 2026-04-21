@@ -21,7 +21,7 @@ Los routers establecen múltiples túneles VPN entre sí para permitir la comuni
 
 ## 🖼️ Topología
 
-![Topología](topologia.png)
+![Topología](TopologiaVPN.png)
 
 ---
 
