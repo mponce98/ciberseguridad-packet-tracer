@@ -54,5 +54,6 @@ La salida de `show port-security` muestra:
 
 ## Archivos
 
-- `mac-security.pkt` → Simulación en Cisco Packet Tracer  
-- `topologia.png` → Diseño de la red  
+- `EJERCICIO MAC.pkt` → Simulación en Cisco Packet Tracer  
+- `topologia.png` → Diseño de la red
+- `verificacion.png` → Verificación estado seguridad
