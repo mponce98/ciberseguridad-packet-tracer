@@ -100,11 +100,9 @@ Los dispositivos configurados son:
 
 Se verifica el sistema mediante el uso de una tarjeta RFID:
 
-### 🖼️ Estado del sistema
-![Monitor IoT](monitor.png)
-
 ### 🖼️ Lectura de tarjeta RFID
-![RFID válido](rfid_valido.png)
+![RFID válido Madrid](rfid_valido_madrid.png)
+![RFID válido Valencia](rfid_valido_valencia.png)
 
 ## Resultados
 
